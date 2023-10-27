@@ -22,7 +22,7 @@ Save the data to the file.
 ```
 DEVELOPED BY : BALAMURUGAN B
 REG NO : 212222230016
-```
+
 import pandas as pd
 df1 = pd.read_csv("data.csv")
 df.head()
